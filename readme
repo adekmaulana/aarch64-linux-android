@@ -1,0 +1,9 @@
+#
+# .
+#
+
+AArch64 Prebuilt GCC
+
+The prefix of TARGET can be alias using:
+`aarch64-linux-android`
+so you don't have to write the whole `aarch64-unknown-linux-android`.
