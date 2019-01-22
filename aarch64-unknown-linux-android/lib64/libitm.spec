@@ -1,0 +1,1 @@
+../../aarch64-unknown-linux-android/sysroot/lib64/libitm.spec
