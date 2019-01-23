@@ -1,4 +1,4 @@
-/* generated for  aarch64-unknown-linux-android-gcc (Linaro GCC 7.4-2019.02-rc1) 7.4.1 20181213 */
+/* generated for  aarch64-unknown-linux-android-gcc (Linaro GCC 7.4-2019.02) 7.4.1 20181213 */
 
 #ifndef GCC_GENERATED_STDINT_H
 #define GCC_GENERATED_STDINT_H 1
